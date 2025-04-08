@@ -71,7 +71,7 @@ This website is a fully responsive and interactive digital platform built for a 
  ┃ ┣ 📂 images
  ┃ ┗ 📂 icons
  ┗ 📜 README.md
-
+```
 
 ## 🖼️ Website Preview
 

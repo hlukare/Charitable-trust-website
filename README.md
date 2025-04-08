@@ -42,7 +42,7 @@ This website is a fully responsive and interactive digital platform built for a 
 
 ## 🌍 Live Website
 
-🔗 [Visit Live Site]([https://your-netlify-project-link.netlify.app](https://imdpct.netlify.app/))
+🔗 [Visit Live Site](https://imdpct.netlify.app)
 
 ---
 
